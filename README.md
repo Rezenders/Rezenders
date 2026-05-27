@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- I’m currently working on self-adaptive robots
+- I’m currently working on self-adaptive robots and unmanned surface vessels 🌊🛥🤖
 
 [![Rezender's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rezenders&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
