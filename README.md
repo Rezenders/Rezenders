@@ -3,9 +3,9 @@
 
 - I’m currently working on self-adaptive robots and unmanned surface vessels 🌊🛥🤖
 
-[![Rezender's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rezenders&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Rezender's GitHub stats](https://github-stats-extended.vercel.app/api?username=Rezenders&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezenders&layout=compact&count_private=true&hide=javascript,html,Jupyter%20Notebook,CSS,c%23,Makefile,Tex,GLSL,qmake,M4,scilab&show_icons=true&include_all_commits=false&is_fork=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Rezenders&layout=compact&count_private=true&hide=javascript,html,Jupyter%20Notebook,CSS,c%23,Makefile,Tex,GLSL,qmake,M4,scilab&show_icons=true&include_all_commits=false&is_fork=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![HitCount](https://hits.dwyl.com/rezenders/rezenders.svg?style=flat-square&show=unique)](http://hits.dwyl.com/rezenders/rezenders)
 
